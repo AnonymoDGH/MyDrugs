@@ -6,13 +6,12 @@
 
 > Fan-made recreation of the fictional MyDrugs.to website from the Netflix series *How To Sell Drugs Online (Fast)*.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bb02eddd-9e13-4029-9be8-51f148f471ea/deploy-status)](https://mydrugs20.netlify.app)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite)
 
-[🌐 Live Demo](https://mydrugs20.netlify.app) · [📺 About the Show](https://www.netflix.com/title/80233478)
+[📺 About the Show](https://www.netflix.com/title/80233478)
 
 <img src="docs/screenshots/home.png" alt="MyDrugs 2.0 — Hero" width="100%"/>
 
@@ -153,8 +152,6 @@ The app is a **static SPA** — deploy anywhere that serves HTML:
 npm run build
 # Upload dist/index.html to Netlify, Vercel, Cloudflare Pages, etc.
 ```
-
-Or use the [live demo on Netlify](https://mydrugs20.netlify.app).
 
 ---
 
