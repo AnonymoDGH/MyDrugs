@@ -14,7 +14,21 @@
 
 [🌐 Live Demo](https://mydrugs20.netlify.app) · [📺 About the Show](https://www.netflix.com/title/80233478)
 
+<img src="docs/screenshots/home.png" alt="MyDrugs 2.0 — Hero" width="100%"/>
+
 </div>
+
+## 📸 Screenshots
+
+| Home — Hero Carousel | The Shop |
+|:---:|:---:|
+| <img src="docs/screenshots/home.png" width="480"/> | <img src="docs/screenshots/shop.png" width="480"/> |
+| **Economy Bundles** | **Premium Selection** |
+| <img src="docs/screenshots/economy.png" width="480"/> | <img src="docs/screenshots/premium.png" width="480"/> |
+| **Party Packs** | **Safety Guide** |
+| <img src="docs/screenshots/packs.png" width="480"/> | <img src="docs/screenshots/safety.png" width="480"/> |
+| **FAQ** | **Contact / Team** |
+| <img src="docs/screenshots/faq.png" width="480"/> | <img src="docs/screenshots/contact.png" width="480"/> |
 
 ---
 
